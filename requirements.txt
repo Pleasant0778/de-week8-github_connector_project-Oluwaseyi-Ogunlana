@@ -1,0 +1,5 @@
+requests
+pandas
+pytestython-dotenv
+pytest
+pytest-mock
